@@ -1,6 +1,6 @@
 # CSSI Curriculum Labs
 
-Welcome to the CSSI Curriculum Labs.
+Welcome to the CSSI Curriculum Labs that I'm editing.
 
 This repository contains the code and instructions for the student activities
 and labs that complement the CSSI curriculum.
